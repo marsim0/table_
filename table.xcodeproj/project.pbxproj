@@ -11,10 +11,10 @@
 		0D7043321AD169B300E24712 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D7043311AD169B300E24712 /* AppDelegate.m */; };
 		0D7043351AD169B300E24712 /* table.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0D7043331AD169B300E24712 /* table.xcdatamodeld */; };
 		0D7043381AD169B300E24712 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D7043371AD169B300E24712 /* ViewController.m */; };
-		0D70433B1AD169B300E24712 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D7043391AD169B300E24712 /* Main.storyboard */; };
 		0D70433D1AD169B300E24712 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D70433C1AD169B300E24712 /* Images.xcassets */; };
 		0D7043401AD169B300E24712 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0D70433E1AD169B300E24712 /* LaunchScreen.xib */; };
 		0D70434C1AD169B300E24712 /* tableTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D70434B1AD169B300E24712 /* tableTests.m */; };
+		0D7043551AD184FD00E24712 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D7043391AD169B300E24712 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -202,7 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0D70433B1AD169B300E24712 /* Main.storyboard in Resources */,
+				0D7043551AD184FD00E24712 /* Main.storyboard in Resources */,
 				0D7043401AD169B300E24712 /* LaunchScreen.xib in Resources */,
 				0D70433D1AD169B300E24712 /* Images.xcassets in Resources */,
 			);
